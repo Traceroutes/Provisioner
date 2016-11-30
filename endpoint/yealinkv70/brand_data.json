@@ -1,7 +1,7 @@
 {
 "data": {
    "brands": {
-     "name": "Yealink V70",
+     "name": "Yealink V70+",
      "brand_id": "21",
      "directory": "yealinkv70",
      "package": "yealinkv70.tgz",
@@ -10,7 +10,7 @@
      "family_list": [
        {
          "id": "2",
-         "name": "Yealink T2X v70: [T20, T22, T26, T27, T28]",
+         "name": "Yealink T2 Series",
          "directory": "t2x",
          "description": "",
          "changelog": "",
@@ -18,7 +18,7 @@
        },
        {
          "id": "1",
-         "name": "Yealink T3x v70: [T32, T38]",
+         "name": "Yealink T3 Series",
          "directory": "t3x",
          "description": "",
          "changelog": "",
@@ -26,7 +26,7 @@
        },
        {
          "id": "4",
-         "name": "Yealink T4x v70: [T41, T42, T46]",
+         "name": "Yealink T4 Series",
          "directory": "t4x",
          "description": "",
          "changelog": "",
@@ -34,14 +34,14 @@
        },
        {
          "id": "5",
-         "name": "Yealink VP Series v70: [VP530]",
+         "name": "Yealink VP Series",
          "directory": "vPhone",
          "description": "",
          "changelog": "",
          "last_modified": null
        }
      ],
-     "changelog": "PACKAGER: V70 Conversion for Yealink T2X/T3X phones"
+     "changelog": "Naming Cleanup"
    }
  }
  }
