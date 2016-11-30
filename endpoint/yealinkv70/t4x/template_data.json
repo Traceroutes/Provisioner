@@ -585,7 +585,7 @@
 				"item":[		
 				{
 					"variable": "$manual_use_outbound_proxy",
-					"default_value": "1",
+					"default_value": "0",
 					"description": "Use Outbound Proxy",
 					"type": "list",
 					"data":[
@@ -625,7 +625,7 @@
 				},
 				{
 						"variable":"$voice_vlan_enable",
-						"default_value":"1",
+						"default_value":"0",
 						"description":"Voice VLAN Enable",
 						"type":"list",
 						"data":[
