@@ -4,7 +4,7 @@
     "id":"4",
     "directory":"t4x",
     "firmware_ver":"",
-    "firmware_pkg":"NULL",
+    "firmware_pkg":"t4x_firmware.tgz",
     "firmware_md5sum":"",
     "description":"Make more settings available in user interface",
     "configuration_files":"y0000000000$suffix.cfg,$mac.cfg,$mac.xml",
