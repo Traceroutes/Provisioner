@@ -3,7 +3,7 @@
     "name":"Yealink T4 Series",
     "id":"4",
     "directory":"t4x",
-    "firmware_ver":"",
+    "firmware_ver":"1000",
     "firmware_pkg":"t4x_firmware.tgz",
     "firmware_md5sum":"",
     "description":"Make more settings available in user interface",
