@@ -16,9 +16,13 @@
                         "item":[
                         {
                             "variable":"$linekey_type",
-                            "default_value":"15",
+                            "default_value":"0",
                             "description":"Line Key {$count} Type",
                             "type":"list",
+                            {
+                                "text":"Not Used",
+                                "value":"0"
+                            },
                             "data":[
                             {
                                 "text":"Conference",
